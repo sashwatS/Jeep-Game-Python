@@ -1,0 +1,1 @@
+Created a simple platformer game in Python, where a jeep can either jump or shoot obstacles, with a high-score count. Used stock assets for some of the visuals, and the "Nobody told me about id" song from Doom for the background music.
